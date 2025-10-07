@@ -64,5 +64,5 @@ Conheça as pessoas incríveis que fazem parte da construção do Vitally.
 
 ---
 <p align="center">
-  Feito com ❤️ pelo grupo 6 do 2` Período de I.A./C.D. 2025 da Faculdade Donaduzzi.
+  Feito com ❤️ pelo grupo 6 do 2° Período de I.A./C.D. 2025 da Faculdade Donaduzzi.
 </p>
