@@ -1,6 +1,7 @@
 <p align="center">
   <!-- Substitua pela URL da sua imagem/banner -->
-  <img src="https://via.placeholder.com/1080x400/1a6d40/FFFFFF?text=Vitally+System" alt="logo" width="1080"/>
+  <img src="<img width="1280" height="320" alt="Prioritize your health" src="https://github.com/user-attachments/assets/4743c5a8-8fc3-4ec0-8a5a-581bb0a9d721" />
+" alt="logo" width="1080"/>
 </p>
 
 <p></p>
