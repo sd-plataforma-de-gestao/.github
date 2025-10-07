@@ -58,7 +58,7 @@ Conheça as pessoas incríveis que fazem parte da construção do Vitally.
 
 <p align="center">
 <a href="https://github.com/sd-plataforma-de-gestao/gestao-servicos-repo/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sd-plataforma-de-gestao/gestao-servicos-repo" />
+  <img src="https://contrib.rocks/image?repo=sd-plataforma-de-gestao/gestao-servicos-repo"/>
 </a>
 </p>
 
