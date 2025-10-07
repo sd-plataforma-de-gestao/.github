@@ -1,7 +1,6 @@
 <p align="center">
-  <!-- Substitua pela URL da sua imagem/banner -->
-  <img src="<img width="1280" height="320" alt="Prioritize your health" src="https://github.com/user-attachments/assets/4743c5a8-8fc3-4ec0-8a5a-581bb0a9d721" />
-" alt="logo" width="1080"/>
+  <img width="1280" height="320" alt="Prioritize your health" src="https://github.com/user-attachments/assets/18489ef6-84f3-4696-948a-58c8ad5bc77b" />
+
 </p>
 
 <p></p>
