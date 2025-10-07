@@ -63,16 +63,6 @@ Conheça as pessoas incríveis que fazem parte da construção do Vitally.
 </p>
 
 ---
-
-## 📫 Contato
-
-Conecte-se conosco!
-
-* 💼 **LinkedIn:** [Seu Nome / Organização](  https://www.linkedin.com/in/SEU_PERFIL  )
-* 📧 **E-mail:** [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
-* 🌐 **Website:** [exemplo.com](https://exemplo.com  )
-
----
 <p align="center">
-  Feito com ❤️ pela equipe do Vitally.
+  Feito com ❤️ pelo grupo 6 do 2` Período de I.A./C.D. 2025 da Faculdade Donaduzzi.
 </p>
