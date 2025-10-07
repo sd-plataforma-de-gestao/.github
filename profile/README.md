@@ -42,10 +42,10 @@ Aqui estão algumas das funcionalidades principais do sistema. Sinta-se à vonta
 ## 🛠️ Tecnologias que Utilizamos
 
 Somos agnósticos em relação a tecnologias, mas aqui estão algumas das ferramentas e linguagens que mais utilizamos no projeto:
-
 <p align="left">
-  <a href="https://github.com/sd-plataforma-de-gestao" target="_blank">
-    <img src="https://img.shields.io/github/members/sd-plataforma-de-gestao?style=flat&label=Membros&color=5C9D81" alt="Membros da Organização no GitHub">
+  <a href="https://skillicons.dev  ">
+    <!-- Adicione as tecnologias relevantes para o seu projeto -->
+    <img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,bootstrap&perline=8" />
   </a>
 </p>
 
@@ -54,11 +54,10 @@ Somos agnósticos em relação a tecnologias, mas aqui estão algumas das ferram
 ## 👥 Equipe
 
 Conheça as pessoas incríveis que fazem parte da construção do Vitally.
-
-<p align="center">
-<a href="https://github.com/sd-plataforma-de-gestao/gestao-servicos-repo/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sd-plataforma-de-gestao/gestao-servicos-repo"/>
-</a>
+<p align="left">
+  <a href="https://github.com/sd-plataforma-de-gestao" target="_blank">
+    <img src="https://img.shields.io/github/members/sd-plataforma-de-gestao?style=flat&label=Membros&color=5C9D81" alt="Membros da Organização no GitHub">
+  </a>
 </p>
 
 ---
