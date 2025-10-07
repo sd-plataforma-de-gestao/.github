@@ -33,9 +33,9 @@ Aqui estão algumas das funcionalidades principais do sistema. Sinta-se à vonta
 
 | Funcionalidade       | Descrição                                         | Tecnologias Principais          | Link do Repositório                               |
 |----------------------|---------------------------------------------------|---------------------------------|---------------------------------------------------|
-| **Gestão de Serviços Farmacêuticos* | Registro e acompanhamento de atendimentos farmacêuticos, gestão de unidades, estoque e pacientes.** | `PHP`, `MySQL`, `JS`                  | [Acessar Repositório](https://github.com/sd-plataforma-de-gestao/gestao-servicos-repo)       |    
+| **Gestão de Serviços Farmacêuticos** | Registro e acompanhamento de atendimentos farmacêuticos, gestão de unidades, estoque e pacientes.| `PHP`, `MySQL`, `JS`                  | [Acessar Repositório](https://github.com/sd-plataforma-de-gestao/gestao-servicos-repo)       |    
 
-➡️ **[Veja todos os módulos do Vitally](https://github.com/orgs/SEU_NOME_DE_ORGANIZACAO/repositories  )**
+➡️ **[Veja todos os módulos do Vitally](https://github.com/orgs/sd-plataforma-de-gestao/repositories)**
 
 ---
 
