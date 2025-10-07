@@ -57,8 +57,8 @@ Somos agnósticos em relação a tecnologias, mas aqui estão algumas das ferram
 Conheça as pessoas incríveis que fazem parte da construção do Vitally.
 
 <p align="center">
-  <a href="  https://github.com/miguelcastell/sd-plataforma-de-gestao/graphs/contributors  ">
-    <img src="https://contrib.rocks/image?repo=miguelcastell/sd-plataforma-de-gestao" />
+  <a href="  https://github.com/sd-plataforma-de-gestao/graphs/contributors  ">
+    <img src="https://contrib.rocks/image?repo=sd-plataforma-de-gestao/gestao-servicos-repo" />
   </a>
 </p>
 
