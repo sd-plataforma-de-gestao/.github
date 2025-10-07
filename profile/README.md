@@ -33,9 +33,7 @@ Aqui estão algumas das funcionalidades principais do sistema. Sinta-se à vonta
 
 | Funcionalidade       | Descrição                                         | Tecnologias Principais          | Link do Repositório                               |
 |----------------------|---------------------------------------------------|---------------------------------|---------------------------------------------------|
-| **Gestão de Atendimentos** | Registro e acompanhamento de atendimentos farmacêuticos. | `PHP`, `MySQL`                  | [Acessar Repositório](https://github.com/SEU_NOME_DE_USUARIO/NOME_DO_SEU_REPO  )       |
-| **Controle de Medicamentos** | Cadastro e controle de dispensação de medicamentos. | `PHP`, `MySQL`                  | [Acessar Repositório](https://github.com/SEU_NOME_DE_USUARIO/NOME_DO_SEU_REPO  )       |
-| **Relatórios e Insights** | Análise de dados com gráficos e métricas.         | `Chart.js`, `PHP`               | [Acessar Repositório](https://github.com/SEU_NOME_DE_USUARIO/NOME_DO_SEU_REPO  )       |
+| **Gestão de Serviços Farmacêuticos* | Registro e acompanhamento de atendimentos farmacêuticos, gestão de unidades, estoque e pacientes. | `PHP`, `MySQL`, `JS`                  | [Acessar Repositório](https://github.com/SEU_NOME_DE_USUARIO/NOME_DO_SEU_REPO  )       |    
 
 ➡️ **[Veja todos os módulos do Vitally](https://github.com/orgs/SEU_NOME_DE_ORGANIZACAO/repositories  )**
 
