@@ -1,10 +1,10 @@
 # Vitally - Plataforma de Gestão Farmacêutica
 
-<img width="1280" height="320" alt="Prioritize your health" src="https://github.com/user-attachments/assets/0fbea1d9-5b99-48bb-8931-8e1868e80759" />
-
 ![Vitally](https://img.shields.io/badge/Version-1.0-green)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange)
+![Status](https://img.shields.io/badge/Status-Concluído-green)
 ![License](https://img.shields.io/badge/License-MIT-blue)
+
+<img width="1280" height="320" alt="Prioritize your health" src="https://github.com/user-attachments/assets/0fbea1d9-5b99-48bb-8931-8e1868e80759" />
 
 ---
 
