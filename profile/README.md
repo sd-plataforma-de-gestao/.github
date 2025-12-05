@@ -252,7 +252,7 @@ A plataforma rastreia e exibe:
 
 ## 🛠️ Instalação e Execução
 
-Para instruções completas de como rodar a aplicação localmente, consulte o arquivo **[README.md](.gestao-servicos-repo/README.md)**.
+Para instruções completas de como rodar a aplicação localmente, consulte o arquivo README.md que está no repositório..
 
 ### Resumo Rápido:
 1. Instale o XAMPP
@@ -260,7 +260,8 @@ Para instruções completas de como rodar a aplicação localmente, consulte o a
 3. Copie arquivos para `htdocs`
 4. Importe o banco de dados (`back-end/farmacia.sql`)
 5. Configure `config/database.php`
-6. Acesse `http://localhost/gestao-servicos-repo`
+6. Configue a chave de API do Gemini.
+7. Acesse `http://localhost/gestao-servicos-repo`
 
 ---
 
