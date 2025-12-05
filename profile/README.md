@@ -252,7 +252,7 @@ A plataforma rastreia e exibe:
 
 ## 🛠️ Instalação e Execução
 
-Para instruções completas de como rodar a aplicação localmente, consulte o arquivo **[README.md](./README.md)**.
+Para instruções completas de como rodar a aplicação localmente, consulte o arquivo **[README.md](.gestao-servicos-repo/README.md)**.
 
 ### Resumo Rápido:
 1. Instale o XAMPP
